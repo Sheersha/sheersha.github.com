@@ -1,0 +1,13 @@
+#mytitle{
+    font-size:30px;
+    color:purple;
+
+}
+#mynav{
+    float:right;
+}
+
+#mynav ul li{
+    list-style:none;
+    float:left;
+}
